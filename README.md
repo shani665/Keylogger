@@ -1,7 +1,5 @@
 # Keylogger
  Logs keyboard input to a file
- ````
-
  
  How to run
 ```
